@@ -1,5 +1,5 @@
 # SpaceX Homepage
-> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/spacex-homepage/)
+> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/spacex-homepage/index.html)
 
 ## Table of contents
 - [SpaceX Homepage](#SpaceX)
